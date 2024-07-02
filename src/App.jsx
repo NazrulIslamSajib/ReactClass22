@@ -1,9 +1,9 @@
-import React from 'react'
-import STATE from './STATE'
+import React from 'react'    
+import Conditionalrender from './CONDITIONAL_RENDERRING/Conditionalrender'
 export default function App() { 
   return (
     <div>
-      <STATE/> 
+      <Conditionalrender/>
     </div>
   )
 }
