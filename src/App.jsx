@@ -1,9 +1,9 @@
 import React from 'react'    
-import Conditionalrender from './CONDITIONAL_RENDERRING/Conditionalrender'
+import EVENT_HANDER_CLASS from './EVENT_HANDLER_CLASS'
 export default function App() { 
   return (
     <div>
-      <Conditionalrender/>
+      <EVENT_HANDER_CLASS/>
     </div>
   )
 }
